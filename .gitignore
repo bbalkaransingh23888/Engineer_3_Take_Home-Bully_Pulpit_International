@@ -1,0 +1,6 @@
+.venv/*
+Pipfile.lock
+.pytest_cache
+/audience-fe/node_modules/
+/.vscode
+.DS_Store
